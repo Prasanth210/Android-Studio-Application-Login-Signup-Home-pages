@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Car Service</string>
+    <string name="car_services">Car Services</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="newuser">New user Signup?</string>
+    <string name="signup">Signup</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="e_components">E-Components</string>
+    <string name="engine">Engine</string>
+    <string name="oil_filter">Oil Filter</string>
+    <string name="wheels">Wheels</string>
+    <string name="spark_plugs">Spark Plugs</string>
+    <string name="full_service">Full Service</string>
+</resources>
